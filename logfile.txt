@@ -1,0 +1,135 @@
+DEBUG      root            <module>   1038:  - locale: fr_FR
+DEBUG      PostPro.PostProcessorConfig load_config 200 :  - lecture varspace '/home/pierre/Documents/dxf2gcode/postpro_config/postpro_config.cfg' existant
+DEBUG      root            <module>   1068:  - Started with following options 
+ArgumentParser(prog='dxf2gcode.py', usage=None, description=None, version=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+INFO       root            showDialog 238 :  - Fichier: /home/pierre/Documents/bride-1_4.dxf sélectionné
+INFO       root            loadFile   725 :  - Chargement fichier: /home/pierre/Documents/bride-1_4.dxf
+DEBUG      DxfImport.Import Get_Line_Pairs 177 :  - Did read 2684 of linepairs from DXF 
+INFO       DxfImport.Import __init__   70  :  - Lecture structure DXF
+INFO       DxfImport.Import Read_Blocks 280 :  - Reading Block *Model_Space; Nr: 0
+DEBUG      DxfImport.Import Read_Blocks 289 :  - Found block pos Value 10 at: 797
+INFO       DxfImport.Import Read_Blocks 280 :  - Reading Block *Paper_Space; Nr: 1
+DEBUG      DxfImport.Import Read_Blocks 289 :  - Found block pos Value 10 at: 817
+INFO       DxfImport.Import Read_Blocks 280 :  - Reading Block SE; Nr: 2
+DEBUG      DxfImport.Import Read_Blocks 289 :  - Found block pos Value 10 at: 837
+INFO       DxfImport.Import Read_Blocks 280 :  - Reading Block SE1; Nr: 3
+DEBUG      DxfImport.Import Read_Blocks 289 :  - Found block pos Value 10 at: 914
+INFO       DxfImport.Import Read_Blocks 280 :  - Reading Block SE2; Nr: 4
+DEBUG      DxfImport.Import Read_Blocks 289 :  - Found block pos Value 10 at: 991
+INFO       DxfImport.Import Read_Blocks 280 :  - Reading Block SE3; Nr: 5
+DEBUG      DxfImport.Import Read_Blocks 289 :  - Found block pos Value 10 at: 1068
+INFO       DxfImport.Import __init__   85  :  - Création contours du bloc N°: 0
+INFO       DxfImport.Import __init__   85  :  - Création contours du bloc N°: 1
+INFO       DxfImport.Import __init__   85  :  - Création contours du bloc N°: 2
+INFO       DxfImport.Import __init__   85  :  - Création contours du bloc N°: 3
+INFO       DxfImport.Import __init__   85  :  - Création contours du bloc N°: 4
+INFO       DxfImport.Import __init__   85  :  - Création contours du bloc N°: 5
+INFO       DxfImport.Import __init__   88  :  - Création contours des entités
+INFO       root            loadFile   731 :  - Calques chargés: 3
+INFO       root            loadFile   732 :  - Blocs chargés: 6
+INFO       root            loadFile   736 :  - Bloc 0 inclus 0 éléments Géométriques, réduit à 0 Contours, calques utilisés: []
+INFO       root            loadFile   736 :  - Bloc 1 inclus 0 éléments Géométriques, réduit à 0 Contours, calques utilisés: []
+INFO       root            loadFile   736 :  - Bloc 2 inclus 4 éléments Géométriques, réduit à 1 Contours, calques utilisés: [2]
+INFO       root            loadFile   736 :  - Bloc 3 inclus 4 éléments Géométriques, réduit à 1 Contours, calques utilisés: [2]
+INFO       root            loadFile   736 :  - Bloc 4 inclus 4 éléments Géométriques, réduit à 1 Contours, calques utilisés: [2]
+INFO       root            loadFile   736 :  - Bloc 5 inclus 4 éléments Géométriques, réduit à 1 Contours, calques utilisés: [2]
+INFO       root            loadFile   740 :  - Chargé 4 Entités géométriques, réduit à 4 Contours, calques utilisés: [1], Nombre d'inserts: 4
+INFO       root            loadFile   752 :  - Drawing units: millimeters
+DEBUG      Core.Shape      AnalyseAndOptimize 403 :  - Analyse de forme pour CW direction N°: 0
+DEBUG      Core.Shape      FindNearestStPoint 437 :  - Point selectionné: X -> 0.000  Y -> 0.000
+DEBUG      Core.Shape      FindNearestStPoint 441 :  - Ancien point de départ: X ->917.113  Y ->497.330
+DEBUG      Core.Shape      FindNearestStPoint 455 :  - Nouveau point de départ: X ->68.585  Y ->426.620
+DEBUG      Core.Shape      AnalyseAndOptimize 403 :  - Analyse de forme pour CW direction N°: 1
+DEBUG      Core.Shape      FindNearestStPoint 437 :  - Point selectionné: X -> 0.000  Y -> 0.000
+DEBUG      Core.Shape      FindNearestStPoint 441 :  - Ancien point de départ: X ->923.258  Y ->353.490
+DEBUG      Core.Shape      FindNearestStPoint 455 :  - Nouveau point de départ: X ->74.730  Y ->282.779
+DEBUG      Core.Shape      AnalyseAndOptimize 403 :  - Analyse de forme pour CW direction N°: 2
+DEBUG      Core.Shape      FindNearestStPoint 437 :  - Point selectionné: X -> 0.000  Y -> 0.000
+DEBUG      Core.Shape      FindNearestStPoint 441 :  - Ancien point de départ: X ->923.297  Y ->212.910
+DEBUG      Core.Shape      FindNearestStPoint 455 :  - Nouveau point de départ: X ->74.769  Y ->142.199
+DEBUG      Core.Shape      AnalyseAndOptimize 403 :  - Analyse de forme pour CW direction N°: 3
+DEBUG      Core.Shape      FindNearestStPoint 437 :  - Point selectionné: X -> 0.000  Y -> 0.000
+DEBUG      Core.Shape      FindNearestStPoint 441 :  - Ancien point de départ: X ->923.908  Y ->74.604
+DEBUG      Core.Shape      FindNearestStPoint 455 :  - Nouveau point de départ: X -> 4.669  Y ->74.604
+DEBUG      PostPro.Breaks  process    55  :  - Found 0 break layers and 1 processing layers
+DEBUG      Core.Shape      make_papath 520 :  - Ajout forme au dessin N°: 0
+DEBUG      Core.Point      add2path   124 :  - Point: x: 68.59, y: 426.62
+DEBUG      Core.Shape      make_papath 520 :  - Ajout forme au dessin N°: 1
+DEBUG      Core.Point      add2path   124 :  - Point: x: 74.73, y: 282.78
+DEBUG      Core.Shape      make_papath 520 :  - Ajout forme au dessin N°: 2
+DEBUG      Core.Point      add2path   124 :  - Point: x: 74.77, y: 142.20
+DEBUG      Core.Shape      make_papath 520 :  - Ajout forme au dessin N°: 3
+DEBUG      Core.Point      add2path   124 :  - Point: x: 4.67, y: 74.60
+DEBUG      DxfImport.myCanvasClass plot_shapes 547 :  - Rafraichir affichage
+DEBUG      DxfImport.myCanvasClass autoscale  227 :  - Agrandissement: PyQt4.QtCore.QRectF(-20.0, -687.5023774161798, 943.9076703012558, 707.5023774161798)
+DEBUG      root            optimize_TSP 269 :  - Optimisation ordre des formes activées par calques
+DEBUG      root            optimize_TSP 273 :  - Adaptation ordre pour TreeView
+DEBUG      root            optimize_TSP 288 :  - Nb. de formes 4; Nb. de formes sur parcours 4
+DEBUG      root            optimize_TSP 289 :  - Exporter ordre pour départ: [0, 1, 2, 3]
+INFO       root            optimize_TSP 316 :  - TSP valeurs de départ initialisées pour calque BRIDE-1_4
+DEBUG      root            optimize_TSP 318 :  - Formes à engendrer: [0, 1, 2, 3]
+DEBUG      root            optimize_TSP 320 :  - Ordre figé: [0, 1, 2, 3]
+DEBUG      root            optimize_TSP 330 :  - TSP fait avec résultat: Iteration nrs:    500
+Shape nrs:      5
+Population:     8
+Mutate rate:    0.95
+order:          [0, 1, 2, 3]
+Start length:   888.8
+Opt. length:    888.8
+Opt. route:     [4, 0, 1, 2, 3]
+DEBUG      root            optimize_TSP 337 :  - Nouvel ordre d'exportation après TSP: [0, 1, 2, 3]
+DEBUG      root            exportShapes 373 :  - Exporter formes activées
+DEBUG      root            exportShapes 379 :  - Calques triés:
+DEBUG      root            exportShapes 381 :  - LayerContents[0] = 
+type:          Layer
+LayerNr:       2
+LayerName:     BRIDE-1_4
+shapes:        [<Core.Shape.ShapeClass object at 0x7f1c64140df8>, <Core.Shape.ShapeClass object at 0x7f1c64240180>, <Core.Shape.ShapeClass object at 0x7f1c64240478>, <Core.Shape.ShapeClass object at 0x7f1c64240770>]
+exp_order:     [0, 1, 2, 3]
+exp_order_comp:[0, 1, 2, 3]
+tool_diameter: 1
+INFO       root            showSaveDialog 477 :  - Fichier: /home/pierre/Documents/dxf2gcode/bride-1_4 sélectionné
+DEBUG      PostPro.PostProcessorConfig load_config 200 :  - lecture varspace '/home/pierre/Documents/dxf2gcode/postpro_config/postpro_config.cfg' existant
+DEBUG      PostPro.PostProcessor exportShapes 167 :  - Exportation du calque N°. 2, NomBRIDE-1_4
+DEBUG      PostPro.PostProcessor exportShapes 169 :  - Nb. de formes 4; Nb. de formes sur pacours 4
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 0
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 1
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 2
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 3
+INFO       PostPro.PostProcessor exportShapes 218 :  - Export vers FILE réussi
+DEBUG      root            optimize_TSP 269 :  - Optimisation ordre des formes activées par calques
+DEBUG      root            optimize_TSP 273 :  - Adaptation ordre pour TreeView
+DEBUG      root            optimize_TSP 288 :  - Nb. de formes 4; Nb. de formes sur parcours 4
+DEBUG      root            optimize_TSP 289 :  - Exporter ordre pour départ: [0, 1, 2, 3]
+INFO       root            optimize_TSP 316 :  - TSP valeurs de départ initialisées pour calque BRIDE-1_4
+DEBUG      root            optimize_TSP 318 :  - Formes à engendrer: [0, 1, 2, 3]
+DEBUG      root            optimize_TSP 320 :  - Ordre figé: [0, 1, 2, 3]
+DEBUG      root            optimize_TSP 330 :  - TSP fait avec résultat: Iteration nrs:    500
+Shape nrs:      5
+Population:     8
+Mutate rate:    0.95
+order:          [0, 1, 2, 3]
+Start length:   888.8
+Opt. length:    888.8
+Opt. route:     [4, 0, 1, 2, 3]
+DEBUG      root            optimize_TSP 337 :  - Nouvel ordre d'exportation après TSP: [0, 1, 2, 3]
+DEBUG      root            exportShapes 373 :  - Exporter formes activées
+DEBUG      root            exportShapes 379 :  - Calques triés:
+DEBUG      root            exportShapes 381 :  - LayerContents[0] = 
+type:          Layer
+LayerNr:       2
+LayerName:     BRIDE-1_4
+shapes:        [<Core.Shape.ShapeClass object at 0x7f1c64140df8>, <Core.Shape.ShapeClass object at 0x7f1c64240180>, <Core.Shape.ShapeClass object at 0x7f1c64240478>, <Core.Shape.ShapeClass object at 0x7f1c64240770>]
+exp_order:     [0, 1, 2, 3]
+exp_order_comp:[0, 1, 2, 3]
+tool_diameter: 1
+INFO       root            showSaveDialog 477 :  - Fichier: /home/pierre/Documents/dxf2gcode/bride-1_4 sélectionné
+DEBUG      PostPro.PostProcessorConfig load_config 200 :  - lecture varspace '/home/pierre/Documents/dxf2gcode/postpro_config/postpro_config.cfg' existant
+DEBUG      PostPro.PostProcessor exportShapes 167 :  - Exportation du calque N°. 2, NomBRIDE-1_4
+DEBUG      PostPro.PostProcessor exportShapes 169 :  - Nb. de formes 4; Nb. de formes sur pacours 4
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 0
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 1
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 2
+DEBUG      PostPro.PostProcessor exportShapes 183 :  - Exportation de la forme N°: 3
+INFO       PostPro.PostProcessor exportShapes 218 :  - Export vers FILE réussi
+DEBUG      root            closeEvent 1004:  - Sortie

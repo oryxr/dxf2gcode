@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/539/trunk/source/dxf2gcode_pyQt4_ui
+END
+dxf2gcode_pyQt4_ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/539/trunk/source/dxf2gcode_pyQt4_ui/dxf2gcode_pyQt4_ui.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/268/trunk/source/dxf2gcode_pyQt4_ui/__init__.py
+END
+dxf2gcode_images.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/395/trunk/source/dxf2gcode_pyQt4_ui/dxf2gcode_images.qrc
+END
+dxf2gcode_images_rc.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/452/trunk/source/dxf2gcode_pyQt4_ui/dxf2gcode_images_rc.py
+END
+dxf2gcode_pyQt4_ui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/539/trunk/source/dxf2gcode_pyQt4_ui/dxf2gcode_pyQt4_ui.ui
+END
+make_py_uic.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/518/trunk/source/dxf2gcode_pyQt4_ui/make_py_uic.py
+END

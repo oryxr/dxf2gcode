@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/538/trunk/source/DxfImport
+END
+Classes.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/518/trunk/source/DxfImport/Classes.py
+END
+GeoentPoint.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentPoint.py
+END
+GeoentLwpolyline.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentLwpolyline.py
+END
+Import.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/538/trunk/source/DxfImport/Import.py
+END
+GeoentEllipse.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentEllipse.py
+END
+GeoentInsert.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentInsert.py
+END
+SplineConvert.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/518/trunk/source/DxfImport/SplineConvert.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/275/trunk/source/DxfImport/__init__.py
+END
+GeoentLine.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentLine.py
+END
+GeoentSpline.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentSpline.py
+END
+biarc.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/518/trunk/source/DxfImport/biarc.py
+END
+GeoentCircle.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentCircle.py
+END
+GeoentPolyline.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentPolyline.py
+END
+GeoentArc.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/518/trunk/source/DxfImport/GeoentArc.py
+END

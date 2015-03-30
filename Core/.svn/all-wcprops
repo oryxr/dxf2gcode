@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/549/trunk/source/Core
+END
+validate.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/362/trunk/source/Core/validate.py
+END
+configobj.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/460/trunk/source/Core/configobj.py
+END
+BreakGeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/518/trunk/source/Core/BreakGeo.py
+END
+HoleGeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/518/trunk/source/Core/HoleGeo.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/275/trunk/source/Core/__init__.py
+END
+Globals.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/518/trunk/source/Core/Globals.py
+END
+Logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/538/trunk/source/Core/Logger.py
+END
+Point.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/trunk/source/Core/Point.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/549/trunk/source/Core/constants.py
+END
+LayerContent.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/523/trunk/source/Core/LayerContent.py
+END
+EntitieContent.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/518/trunk/source/Core/EntitieContent.py
+END
+CustomGCode.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/517/trunk/source/Core/CustomGCode.py
+END
+Config.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/538/trunk/source/Core/Config.py
+END
+Shape.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/518/trunk/source/Core/Shape.py
+END
+ArcGeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/518/trunk/source/Core/ArcGeo.py
+END
+LineGeo.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/518/trunk/source/Core/LineGeo.py
+END

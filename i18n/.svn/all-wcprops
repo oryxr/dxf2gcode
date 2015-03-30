@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/527/trunk/source/i18n
+END
+dxf2gcode_fr.qm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/525/trunk/source/i18n/dxf2gcode_fr.qm
+END
+dxf2gcode_de_DE.qm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/527/trunk/source/i18n/dxf2gcode_de_DE.qm
+END
+dxf2gcode_fr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/525/trunk/source/i18n/dxf2gcode_fr.ts
+END
+dxf2gcode_de_DE.ts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/527/trunk/source/i18n/dxf2gcode_de_DE.ts
+END

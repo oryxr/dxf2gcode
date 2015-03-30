@@ -1,0 +1,53 @@
+(Généré avec: DXF2GCODE, Version: PyQt4 Beta, Date: $Date:: 2015-02-04 13:44:52#$)
+(Créé à partir du fichier: /home/pierre/Documents/bride-1_4.dxf)
+(Heure: Mon Mar 30 22:09:54 2015)
+G21 (Units in millimeters) G90 (Absolute programming) G64 (Default cutting) G17 (XY plane) G40 (Cancel radius comp.) G49 (Cancel length comp.)
+
+(*** LAYER: BRIDE-1_4 ***)
+
+(* SHAPE Nr: 0 *)
+G0 X  68.585 Y 426.620
+M3 S1000
+F2000
+F800
+G1 X  -2.125 Y 497.330
+G2 X 917.113 Y 497.330 I 459.619 J-459.619
+G1 X 846.403 Y 426.620
+G3 X  68.585 Y 426.620 I-388.909 J-388.909
+F2000
+M5
+
+(* SHAPE Nr: 1 *)
+G0 X  74.730 Y 282.779
+M3 S1000
+F800
+G1 X   4.019 Y 353.490
+G2 X 923.258 Y 353.490 I 459.619 J-459.619
+G1 X 852.548 Y 282.779
+G3 X  74.730 Y 282.779 I-388.909 J-388.909
+F2000
+M5
+
+(* SHAPE Nr: 2 *)
+G0 X  74.769 Y 142.199
+M3 S1000
+F800
+G1 X   4.058 Y 212.910
+G2 X 923.297 Y 212.910 I 459.619 J-459.619
+G1 X 852.586 Y 142.199
+G3 X  74.769 Y 142.199 I-388.909 J-388.909
+F2000
+M5
+
+(* SHAPE Nr: 3 *)
+G0 X   4.669 Y  74.604
+M3 S1000
+F800
+G2 X 923.908 Y  74.604 I 459.619 J-459.619
+G1 X 853.197 Y   3.893
+G3 X  75.380 Y   3.893 I-388.909 J-388.909
+G1 X   4.669 Y  74.604
+F2000
+M5
+G0 X   0.000 Y   0.000
+M2 (Program end)
